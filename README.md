@@ -25,7 +25,7 @@
     }
     .navigation-button {
       display: block;
-      background-color: blue; /* Set the background color of the button to blue */
+      background-color: #ffffff;
       border: none;
       cursor: pointer;
       padding: 8px;
@@ -35,7 +35,7 @@
       display: block;
       width: 25px;
       height: 3px;
-      background-color: #ffffff; /* Set the color of the button lines to white */
+      background-color: #333;
       margin-bottom: 5px;
     }
     .navigation-menu ul {
@@ -85,3 +85,4 @@
   </script>
 </body>
 </html>
+
