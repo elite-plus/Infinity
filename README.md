@@ -72,7 +72,7 @@
       <li>Home</li>
       <li>About</li>
       <li>Services</li>
-      <li>Contact</li>
+      <li><a href="https://www.google.com">link text</a></li>
     </ul>
   </div>
 
