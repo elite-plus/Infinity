@@ -73,6 +73,7 @@
       <li>About</li>
       <li>Services</li>
       <li><a href="https://www.google.com">link text</a></li>
+            <li><a href="https://web.telegram.org/k/#-1567825141">Telegram</a></li>
     </ul>
   </div>
 
